@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10090" started-at="2014-07-21T16:56:41Z" finished-at="2014-07-21T16:56:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10090" started-at="2014-07-21T16:56:41Z" finished-at="2014-07-21T16:56:51Z">
+      <class name="testNG.DetailsAppliances">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.DetailsAppliances@67fa6619]" name="login" is-config="true" duration-ms="9961" started-at="2014-07-21T22:26:41Z" finished-at="2014-07-21T22:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="appliancesClick()[pri:0, instance:testNG.DetailsAppliances@67fa6619]" name="appliancesClick" duration-ms="39" started-at="2014-07-21T22:26:51Z" finished-at="2014-07-21T22:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appliancesClick -->
+      </class> <!-- testNG.DetailsAppliances -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

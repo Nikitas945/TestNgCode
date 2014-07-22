@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+   <project name="flipkart" default="firstSearch">
+  
+    <property name="sitename" value="www.tutorialspoint.com"/>
+   	<property name="build-src" value="src"/>
+   	
+   	<fileset dir="${web.dir}/WEB-INF/lib">
+   	            <include name="*.jar"/>
+    </fileset>
+      <target name="firstSearch">
+   	  <echo>Apache Ant version is ${ant.version} - You are 
+   	  at ${sitename} </echo>
+        </target>
+   	
+   	
+   	
+</project>

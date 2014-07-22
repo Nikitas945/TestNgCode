@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42741" started-at="2014-07-20T10:02:35Z" finished-at="2014-07-20T10:03:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42741" started-at="2014-07-20T10:02:35Z" finished-at="2014-07-20T10:03:18Z">
+      <class name="testNG.firstSearch">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.firstSearch@27bbf6b4]" name="login" is-config="true" duration-ms="21736" started-at="2014-07-20T15:32:35Z" finished-at="2014-07-20T15:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="asearchBar()[pri:0, instance:testNG.firstSearch@27bbf6b4]" name="asearchBar" duration-ms="20948" started-at="2014-07-20T15:32:57Z" finished-at="2014-07-20T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asearchBar -->
+      </class> <!-- testNG.firstSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
